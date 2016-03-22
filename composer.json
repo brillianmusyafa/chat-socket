@@ -1,0 +1,11 @@
+{
+    "name": "brillian/chat",
+    "description": "Simple Application Chat use socket.io",
+    "authors": [
+        {
+            "name": "Brillian Musyafa",
+            "email": "brillianmusyafa@gmail.com"
+        }
+    ],
+    "require": {}
+}
